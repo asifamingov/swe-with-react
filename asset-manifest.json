@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swe-with-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/swe-with-react/static/js/main.9b6869ce.chunk.js",
+    "main.js.map": "/swe-with-react/static/js/main.9b6869ce.chunk.js.map",
+    "runtime-main.js": "/swe-with-react/static/js/runtime-main.6f706404.js",
+    "runtime-main.js.map": "/swe-with-react/static/js/runtime-main.6f706404.js.map",
+    "static/js/2.e83985c1.chunk.js": "/swe-with-react/static/js/2.e83985c1.chunk.js",
+    "static/js/2.e83985c1.chunk.js.map": "/swe-with-react/static/js/2.e83985c1.chunk.js.map",
+    "index.html": "/swe-with-react/index.html",
+    "precache-manifest.7cfa9eae83edb1708427389375b38bf2.js": "/swe-with-react/precache-manifest.7cfa9eae83edb1708427389375b38bf2.js",
+    "service-worker.js": "/swe-with-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/swe-with-react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/swe-with-react/static/media/logo.25bf045c.svg"
+  }
+}
