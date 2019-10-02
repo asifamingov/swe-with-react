@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm build-swe`
+It fetches and compiles the SWE templates from the Web Template Release NPM package.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
